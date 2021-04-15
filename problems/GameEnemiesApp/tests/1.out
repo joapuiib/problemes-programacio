@@ -1,0 +1,17 @@
+AARRRrrgg
+L'enemic Zog té 5 punts de vida després d'un atac de força 5
+AARRRrrgg
+L'enemic Zog té 0 punts de vida després d'un atac de força 7
+L'enemic Tim té 55 punts de vida després d'un atac de força 7
+GRAaaArg
+L'enemic Lili té 27 punts de vida després d'un atac de força 3
+L'enemic Jum té 12 punts de vida després d'un atac de força 4
+L'enemic Jum té 9 punts de vida després d'un atac de força 8
+GRAaaArg
+L'enemic Lili té 23 punts de vida després d'un atac de força 4
+L'enemic Zog ja està mort
+L'enemic Zog ja està mort
+L'enemic Jum té 9 punts de vida després d'un atac de força 1
+L'enemic Jum té 9 punts de vida després d'un atac de força 1
+L'enemic Jum té 9 punts de vida després d'un atac de força 1
+[Enemy{name='Zog', livePoints=0}, Enemy{name='Lili', livePoints=23}, Enemy{name='Jum', livePoints=9}, Enemy{name='Tim', livePoints=55}]
